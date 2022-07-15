@@ -4,15 +4,18 @@
 ### Astronomy Picture of the Day
 <img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="400" />
 
-### Weather in India
-<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
 
+<!--
+<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
+-->
+  
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+### Profile view count
 <img src="https://count.getloli.com/get/@:aasahu?theme=asoul" />
 
 <!--
