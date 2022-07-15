@@ -2,7 +2,7 @@
 
 
 ### Astronomy Picture of the Day
-<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="400" />
+<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="400" align="center" />
 
 
 <!--
