@@ -3,6 +3,8 @@
 
 ### Astronomy Picture of the Day
 <img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="400" />
+
+### Weather in India
 <img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
 
 ### Random Dev Quote
