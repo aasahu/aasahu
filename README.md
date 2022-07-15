@@ -1,10 +1,9 @@
-<p>
-<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="left">
-</p>
-
-<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="300" align="right"/>
 
 
+
+### Astronomy Picture of the Day
+<img  src="https://go-apod.herokuapp.com/image" alt="Astronomy Picture of the Day" width="400" />
+<img src="https://weather-icon.journeyad.repl.co/@india?v=1" align="right">
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -12,8 +11,9 @@
 ### Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+<img src="https://count.getloli.com/get/@:aasahu?theme=asoul" />
+
 <!--
-**aasahu/aasahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://count.getloli.com/get/@:aasahu?theme=asoul" />
